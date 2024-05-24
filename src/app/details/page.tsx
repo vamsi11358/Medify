@@ -1,5 +1,4 @@
 "use client"
-import Image from "../../../Frame 1.png"
 import Banner from "../banner"
 import NavBar from "../navBar"
 import ImageDoc from "../../../NicePng_doctor-png_336282 1.png";
