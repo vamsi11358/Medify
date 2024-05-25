@@ -1,7 +1,6 @@
 import Link from 'next/link';
 import React, { useState } from 'react';
 import Image from "../../image 22.png";
-
 interface MedicalCenterProps {
   center: {
     "Provider ID": string;
@@ -57,11 +56,6 @@ const MedicalCenterCard: React.FC<MedicalCenterProps> = ({ center }) => {
     }
   }; 
   
-  
-  
-
-
-
   return (
     <div className="border p-4 rounded-lg shadow-lg mb-4">
       <div className="flex items-center">

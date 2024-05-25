@@ -1,12 +1,4 @@
-/* @keyframes scrollLeft {
-    0% {
-      transform: translateX(100%);
-    }
-    100% {
-      transform: translateX(-100%);
-    }
-  } */
-  
+
   .banner-text {
     display: flex;
     white-space: nowrap;

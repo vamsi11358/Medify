@@ -6,7 +6,6 @@ import Image2 from "../../../card_service2.png";
 import Image3 from "../../../card_service3.png";
 import Image4 from "../../../card_service4.png";
 import Image5 from "../../../card_service5.png";
-import router, { useRouter } from 'next/router';
 import Link from "next/link";
 import {useStore} from "../../../store"
 
